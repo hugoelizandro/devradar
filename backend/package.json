@@ -1,0 +1,33 @@
+{
+  "name": "devradar",
+  "version": "1.0.0",
+  "description": "Project developed in the Omnistack Week #10",
+  "author": "hugoelizandro",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hugoelizandro/devradar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hugoelizandro/devradar/issues"
+  },
+  "homepage": "https://github.com/hugoelizandro/devradar#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "prettier": "^1.19.1"
+  },
+  "prettier": {
+    "semi": true,
+    "singleQuote": true,
+    "jsxSingleQuote": true,
+    "trailingComma": "es5"
+  }
+}
