@@ -3,7 +3,7 @@
 </p>
 
 # DevRadar
-Project developed in the Omnistack Week #10 :rocket:
+Project developed in the OmniStack Week #10 :rocket:
 
 ## Tools used in this project
 
@@ -26,7 +26,7 @@ yarn
 yarn start
 ```
 
-The backend will start on 3000 port.
+The backend will start on 3333 port.
 
 #### Progress
 
