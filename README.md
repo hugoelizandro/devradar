@@ -10,6 +10,7 @@ Project developed in the OmniStack Week #10 :rocket:
 - [MongoDB Atlas](https://cloud.mongodb.com/)
 - [MongoDB Compass](https://www.mongodb.com/download-center/compass)
 - [Node.js](https://nodejs.org/)
+- [ReactJS](https://reactjs.org/)
 - [Yarn](https://yarnpkg.com/lang/en/)
 
 ## Backend
@@ -37,7 +38,22 @@ The backend will start on 3333 port.
 
 ## Frontend
 
-#### Coming soon...
+#### Getting starter
+
+_Before you start, make sure the backend is running._
+
+```sh
+cd frontend
+yarn
+yarn start
+```
+
+The frontend will start on 3000 port.
+
+#### Progress
+
+- [x] new dev form
+- [x] devs listing
 
 ## Mobile
 
