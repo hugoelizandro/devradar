@@ -11,6 +11,8 @@ Project developed in the OmniStack Week #10 :rocket:
 - [MongoDB Compass](https://www.mongodb.com/download-center/compass)
 - [Node.js](https://nodejs.org/)
 - [ReactJS](https://reactjs.org/)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 - [Yarn](https://yarnpkg.com/lang/en/)
 
 ## Backend
@@ -53,8 +55,21 @@ The frontend will start on 3000 port.
 #### Progress
 
 - [x] new dev form
-- [x] devs listing
+- [x] dev listing
 
-## Mobile
+## Backend
 
-#### Coming soon...
+#### Getting starter
+
+_When running Yarn, <a href="https://expo.io/">Expo</a> will be installed globally._
+
+```sh
+cd mobile
+yarn
+yarn start
+```
+
+#### Progress
+
+- [x] search for devs
+- [x] map with devs
