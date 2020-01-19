@@ -57,7 +57,7 @@ The frontend will start on 3000 port.
 - [x] new dev form
 - [x] dev listing
 
-## Backend
+## Mobile
 
 #### Getting starter
 
